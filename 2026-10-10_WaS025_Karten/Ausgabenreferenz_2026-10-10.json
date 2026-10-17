@@ -1,0 +1,545 @@
+{
+  "kartenstudioVersion": "1.41",
+  "spieler": [
+    {
+      "id": "01f56c9f-f930-4ef8-b941-6d8ed13f833f",
+      "nameHistorisch": "Skymaroni",
+      "seAbsolut": 4,
+      "seSteigerungLetzteAusgabe": 2,
+      "ptSummeLetzteAusgabe": 20,
+      "epSummeLetzteAusgabe": 6694,
+      "orden": {
+        "mega": false,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "157ac7ec-a287-4c8f-9841-03c03178d02a",
+      "nameHistorisch": "Mimi95",
+      "seAbsolut": 9,
+      "seSteigerungLetzteAusgabe": null,
+      "ptSummeLetzteAusgabe": 18,
+      "epSummeLetzteAusgabe": 18312,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": true
+      }
+    },
+    {
+      "id": "20a97418-385d-4c92-9bc4-0dea92ab0502",
+      "nameHistorisch": "schorfi",
+      "seAbsolut": 100,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 0,
+      "epSummeLetzteAusgabe": 430,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "2f95eae1-e2db-48c2-8d3b-f96db4fb7729",
+      "nameHistorisch": "Anna-Nas",
+      "seAbsolut": 337,
+      "seSteigerungLetzteAusgabe": 21,
+      "ptSummeLetzteAusgabe": 27,
+      "epSummeLetzteAusgabe": 20754,
+      "orden": {
+        "mega": false,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "321cb9be-d967-49a3-ab9f-47efe8ecb927",
+      "nameHistorisch": "mjutox",
+      "seAbsolut": 0,
+      "seSteigerungLetzteAusgabe": null,
+      "ptSummeLetzteAusgabe": 3,
+      "epSummeLetzteAusgabe": 1225,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "369c9989-275b-40e2-a089-967362fe14cd",
+      "nameHistorisch": "Flusenkopp",
+      "seAbsolut": 198,
+      "seSteigerungLetzteAusgabe": 12,
+      "ptSummeLetzteAusgabe": 28,
+      "epSummeLetzteAusgabe": 26579,
+      "orden": {
+        "mega": true,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "3724969d-1abb-49a2-a2ee-c32afc04aa6f",
+      "nameHistorisch": "Zerflixt",
+      "seAbsolut": 353,
+      "seSteigerungLetzteAusgabe": 24,
+      "ptSummeLetzteAusgabe": 28,
+      "epSummeLetzteAusgabe": 23480,
+      "orden": {
+        "mega": true,
+        "ratefuchs": false,
+        "resilienz": true,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "37d244e3-369d-4d16-bfe0-8d70abd995da",
+      "nameHistorisch": "Sam",
+      "seAbsolut": 15,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 4,
+      "epSummeLetzteAusgabe": 2542,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "3a5ff05e-4515-4982-b104-45cf1f810e56",
+      "nameHistorisch": "Austriangirl",
+      "seAbsolut": 3,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 9,
+      "epSummeLetzteAusgabe": 4329,
+      "orden": {
+        "mega": false,
+        "ratefuchs": true,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "3ab5f69d-5d4d-49fe-894e-3189066ae484",
+      "nameHistorisch": "Fireball78",
+      "seAbsolut": 0,
+      "seSteigerungLetzteAusgabe": null,
+      "ptSummeLetzteAusgabe": 12,
+      "epSummeLetzteAusgabe": 6576,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": true
+      }
+    },
+    {
+      "id": "47968a91-b62b-4e43-9424-0eeaeec292bc",
+      "nameHistorisch": "binesch",
+      "seAbsolut": 19,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 4,
+      "epSummeLetzteAusgabe": 7156,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": true,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "6758f3a4-67a3-4dd7-9313-4cbe6885be77",
+      "nameHistorisch": "_Da_Vinci_",
+      "seAbsolut": 29,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 9,
+      "epSummeLetzteAusgabe": 8167,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "6bae49dd-a971-400d-bacb-62594931c6e2",
+      "nameHistorisch": "Jacqueline",
+      "seAbsolut": 146,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 5,
+      "epSummeLetzteAusgabe": 3225,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "6d51e91e-3043-468a-883e-dae0b0f6beca",
+      "nameHistorisch": "Alexander",
+      "seAbsolut": 4,
+      "seSteigerungLetzteAusgabe": 2,
+      "ptSummeLetzteAusgabe": 19,
+      "epSummeLetzteAusgabe": 5760,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "6ee4206a-84ca-462d-ad1e-5a84c745bb13",
+      "nameHistorisch": "Łukasz",
+      "seAbsolut": 75,
+      "seSteigerungLetzteAusgabe": 9,
+      "ptSummeLetzteAusgabe": 19,
+      "epSummeLetzteAusgabe": 21566,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "7565e068-7850-4b6d-9930-3d7a8f4628d6",
+      "nameHistorisch": "Stephie",
+      "seAbsolut": 186,
+      "seSteigerungLetzteAusgabe": 18,
+      "ptSummeLetzteAusgabe": 28,
+      "epSummeLetzteAusgabe": 19109,
+      "orden": {
+        "mega": true,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "76fc006c-b969-49ba-9444-bd0703b2079b",
+      "nameHistorisch": "HOODWATCHER",
+      "seAbsolut": 192,
+      "seSteigerungLetzteAusgabe": 12,
+      "ptSummeLetzteAusgabe": 28,
+      "epSummeLetzteAusgabe": 27691,
+      "orden": {
+        "mega": true,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": true,
+        "epChampion": true
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "85e1644b-d678-4c24-90a7-a19264d3bc58",
+      "nameHistorisch": "roseandkey19",
+      "seAbsolut": 52,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 2,
+      "epSummeLetzteAusgabe": 4408,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": true,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "89779acd-dc61-46d2-a54f-80fb42748fca",
+      "nameHistorisch": "Aura_Dastler Tv",
+      "seAbsolut": 41,
+      "seSteigerungLetzteAusgabe": 2,
+      "ptSummeLetzteAusgabe": 20,
+      "epSummeLetzteAusgabe": 6905,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "b0c3a8ed-326b-4adf-8c90-1912522e557f",
+      "nameHistorisch": "Mellix",
+      "seAbsolut": 239,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 2,
+      "epSummeLetzteAusgabe": 934,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "b2107b32-cd34-4a2b-9ff8-f3cc78f1bc4c",
+      "nameHistorisch": "Solovej der Rastlose",
+      "seAbsolut": 36,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 15,
+      "epSummeLetzteAusgabe": 8555,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "b5054cd7-ff52-4e93-89f3-6f91e27cd04b",
+      "nameHistorisch": "Iris",
+      "seAbsolut": 61,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 13,
+      "epSummeLetzteAusgabe": 3894,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": true,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "b8159701-ae32-4165-b60c-5540cce192c4",
+      "nameHistorisch": "Warloktron",
+      "seAbsolut": 205,
+      "seSteigerungLetzteAusgabe": 7,
+      "ptSummeLetzteAusgabe": 16,
+      "epSummeLetzteAusgabe": 6349,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "c30d1d51-a6e0-4c53-a3b4-5947c0cdccb9",
+      "nameHistorisch": "Vava",
+      "seAbsolut": 5,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 1,
+      "epSummeLetzteAusgabe": 342,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "c7d2bb98-76f1-4562-9ba4-3fc101fa4f6b",
+      "nameHistorisch": "Einsal",
+      "seAbsolut": 49,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 24,
+      "epSummeLetzteAusgabe": 7657,
+      "orden": {
+        "mega": false,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "cdfffcdf-a4e5-4caa-b600-2b0339a4e3eb",
+      "nameHistorisch": "Yasue",
+      "seAbsolut": 87,
+      "seSteigerungLetzteAusgabe": 1,
+      "ptSummeLetzteAusgabe": 10,
+      "epSummeLetzteAusgabe": 4638,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "d0c4b910-8891-4b07-a4c4-f3d01d614cfd",
+      "nameHistorisch": "LittleFox",
+      "seAbsolut": 18,
+      "seSteigerungLetzteAusgabe": null,
+      "ptSummeLetzteAusgabe": 14,
+      "epSummeLetzteAusgabe": 8990,
+      "orden": {
+        "mega": false,
+        "ratefuchs": true,
+        "resilienz": true,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": true
+      }
+    },
+    {
+      "id": "e80ca28e-565b-4fbf-ab71-a72a87cdb1c5",
+      "nameHistorisch": "Fiero",
+      "seAbsolut": 31,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 1,
+      "epSummeLetzteAusgabe": 9746,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": true,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "ec50f18a-590a-4d7d-b7a3-bd8dedd939cd",
+      "nameHistorisch": "Vivi",
+      "seAbsolut": 27,
+      "seSteigerungLetzteAusgabe": 2,
+      "ptSummeLetzteAusgabe": 4,
+      "epSummeLetzteAusgabe": 1478,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    },
+    {
+      "id": "eef709a8-3d8e-4faf-ba6a-92daff9e3759",
+      "nameHistorisch": "Habit Man",
+      "seAbsolut": 11,
+      "seSteigerungLetzteAusgabe": 0,
+      "ptSummeLetzteAusgabe": 0,
+      "epSummeLetzteAusgabe": 5767,
+      "orden": {
+        "mega": false,
+        "ratefuchs": false,
+        "resilienz": false,
+        "steigerung": false,
+        "epChampion": false
+      },
+      "medaillen": {
+        "neuesMitglied": false
+      }
+    }
+  ]
+}
